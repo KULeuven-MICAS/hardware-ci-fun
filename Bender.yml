@@ -1,0 +1,12 @@
+# Copyright 2023 KULeuvn
+# Solderpad Hardware License, Version 0.51, see LICENSE for details.
+# SPDX-License-Identifier: SHL-0.51
+
+package:
+  name: ci-hardware-fun
+  authors:
+    - Ryan Antiono <ryan.antonio@kuleuven.be>
+
+dependencies:
+  common_cells:       { git: https://github.com/pulp-platform/common_cells,       version:  1.28.0  }
+
